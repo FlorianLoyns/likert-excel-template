@@ -21,4 +21,4 @@ Dieses anpassbare Excel-Template wurde entwickelt, um die Evaluierung von Simula
 - Grundlegende Excel-Kenntnisse für die Anpassung des Fragebogens
 
 ## Feedback und Beiträge
-Feedback ist immer willkommen! Wenn Sie Vorschläge zur Verbesserung haben oder Fehler finden, erstellen Sie bitte ein Issue oder einen Pull Request.
+Feedback ist immer willkommen! Wenn Sie Vorschläge zur Verbesserung haben oder Fehler finden, erstellen Sie bitte ein Issue.
