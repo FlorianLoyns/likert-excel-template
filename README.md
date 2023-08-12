@@ -4,7 +4,7 @@
 Dieses anpassbare Excel-Template wurde entwickelt, um die Evaluierung von Simulationssitzungen zu unterstützen. Es ist speziell für die Erstellung von Fragebögen mit Likert-Skalen konzipiert und enthält integrierte Makros für das Drucken des Fragebogens und die Korrektur der Zentrierung von Designelementen. Das Ziel war es, den Evaluierungsprozess in der Pflegeausbildung praktischer und effizienter zu gestalten. Ich hoffe, es erleichtert Ihnen die Gestaltung eigener Fragebögen.
 
 ## Screenshots
-![Screenshot des Templates](link-zum-bild.jpg)
+![Ausschnitt aus dem Fragebogen](screenshot.png)
 
 ## Verwendung
 1. Laden Sie die Excel-Datei aus diesem Repository herunter.
